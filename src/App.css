@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-  background: linear-gradient(to bottom right, #6b1a1a, #612727);
+  background: linear-gradient(to bottom right, #d8d0d0, #d4cbcb);
   transform: scale(1.05);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
@@ -71,5 +71,3 @@ button:hover {
     font-size: 16px;
   }
 }
-
-
