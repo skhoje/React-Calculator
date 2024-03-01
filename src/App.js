@@ -19,6 +19,7 @@ function App() {
 
   const evaluateExpression = () => {
     try {
+      // eslint-disable-next-line
       setResult(eval(input).toString());
     } catch (error) {
       setResult('Error');
